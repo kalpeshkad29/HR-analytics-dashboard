@@ -13,3 +13,4 @@ DAX - used for calculated measures,dynamic visuals and contributed logic
 Data modeling- relationships established among tables
 
 4.Screenshot/Demos
+dashboard preview-https://github.com/kalpeshkad29/HR-analytics-dashboard/blob/main/HR%20analytics%20dashboard.png
